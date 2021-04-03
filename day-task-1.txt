@@ -1,0 +1,30 @@
+Task:
+1- ssh keygen setup
+2- AWS user accesskey and secretkey
+3- Setup Enviornment 
+4- Create a public Gitrepo (Github/Gitlab) (which you need to submit in your final doc)
+5- Build a Java Web Application and expose few HTTP APIs
+6- Write multiple test cases
+7- Upload to remote gitrepo
+8- Setup Jenkins with Master/Slave
+9- Create a Jenkins Pipeline which checkout code base, run test cases
+10- playbook.yml
+	- ec2 - two instances
+		-inside ec2 
+			- install docker
+			- install kubernetes
+			- install jenkins
+			- install java
+	- ec2 security group
+
+Installation:
+
+1.AWS
+2.Jenkins
+3.Docker
+4.Git 
+5.Kubernetes
+6.Docker
+7.Ansible
+8.Chef
+9.Puppet
