@@ -3,7 +3,7 @@ Task:
 	Build Web app 
 	Create docker image
 
-Task1: Using Ansible create 3 AWS EC2 istances
+Task: Using Ansible create 3 AWS EC2 istances
 	Setup a ansible playbook:
 		Eg: aws_ansible_playbook.yml
 				- Modules
