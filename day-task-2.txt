@@ -19,5 +19,8 @@ Task 3: Install the Kubernetes cluster in the instances. Choose any one of the n
 Task 4:
 	Kubernetes application yml file to run App.
 
-Task 5:
+Task 5[based on Project]:
 	Load Balancer 
+
+Task 6 [based on Project]: 
+	Setup Jenkins Master and Slaves within 3 Instances.
