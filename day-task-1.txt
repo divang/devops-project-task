@@ -28,3 +28,6 @@ Installation:
 7.Ansible
 8.Chef
 9.Puppet
+
+Example: Java web web application
+https://spring.io/guides/gs/spring-boot/
