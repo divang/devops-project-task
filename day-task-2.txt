@@ -1,9 +1,9 @@
-Task: 
+Task 1: 
 	Docker server is up
 	Build Web app 
 	Create docker image
 
-Task: Using Ansible create 3 AWS EC2 istances
+Task 2: Using Ansible create 3 AWS EC2 istances
 	Setup a ansible playbook:
 		Eg: aws_ansible_playbook.yml
 				- Modules
@@ -12,12 +12,12 @@ Task: Using Ansible create 3 AWS EC2 istances
 					- ec2_group
 					- ec2
 
-Task: Install the Kubernetes cluster in the instances. Choose any one of the nodes as the Master Node and the remaining two as Worker Nodes.
+Task 3: Install the Kubernetes cluster in the instances. Choose any one of the nodes as the Master Node and the remaining two as Worker Nodes.
 	- join all nodes from kubernetes admin
 
 
-Task:
+Task 4:
 	Kubernetes application yml file to run App.
 
-Task:
+Task 5:
 	Load Balancer 
